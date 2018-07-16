@@ -18,7 +18,7 @@ Setup python 3.6 environment on your local PC and install image-labeling-tool.
 
 ```
 git clone https://github.com/takaaki5564/image-labelling-tool.git
-cd image-labeling-tool
+cd image-labelling-tool
 pip install -e .
 ```
 
